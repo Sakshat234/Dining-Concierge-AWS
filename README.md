@@ -16,3 +16,5 @@ Link for the deployed chatbot- https://chat-sk9428.s3.amazonaws.com/cloud-hw1-st
 3. Open `chat.html` in any browser.
 4. Start sending messages to test the chatbot interaction.
 
+## Architecture ##
+<img width="532" alt="image" src="https://user-images.githubusercontent.com/48490879/199329557-8edccbfc-1b85-4a96-917f-5f883f03e62f.png">
